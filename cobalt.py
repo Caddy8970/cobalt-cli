@@ -18,4 +18,5 @@ response = requests.post(url, headers=headers, data=json.dumps(data))
 response = response.json()
 download = response['url']
 
+print("I've opened your browser with the download link")
 webbrowser.open(download)
