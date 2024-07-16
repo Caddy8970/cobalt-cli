@@ -9,4 +9,6 @@ After a few seconds, your browser should open and automatically start the downlo
 # Requisites
 **Python 3.0** or higher 
 # Credits
-**[cobalt.tools](https://cobalt.tools)** made this project possible, you can check their repository [here](https://github.com/imputnet/cobalt)
+**[cobalt.tools](https://cobalt.tools)** made this project possible, you can check their repository [here](https://github.com/imputnet/cobalt).
+
+**cobalt-cli is not endorsed or affiliated by cobalt.tools**
